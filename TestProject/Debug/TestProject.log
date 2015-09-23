@@ -1,0 +1,16 @@
+﻿Build started 9/22/2015 11:39:40 PM.
+     1>Project "C:\Users\Kathleen\Documents\Whitworth 15-16\DataStructures\TestProject\TestProject\TestProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Sqaure.cpp Triangle.cpp
+         Triangle.cpp
+         Sqaure.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\Kathleen\Documents\Whitworth 15-16\DataStructures\TestProject\Debug\TestProject.lib" /NOLOGO Debug\Sqaure.obj
+         Debug\Triangle.obj
+         TestProject.vcxproj -> C:\Users\Kathleen\Documents\Whitworth 15-16\DataStructures\TestProject\Debug\TestProject.lib
+     1>Done Building Project "C:\Users\Kathleen\Documents\Whitworth 15-16\DataStructures\TestProject\TestProject\TestProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.72
